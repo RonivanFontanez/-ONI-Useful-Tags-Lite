@@ -1,0 +1,449 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.NEXT_ART_BUTTON.TEXT
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.NEXT_ART_BUTTON.TEXT"
+msgid "Next Tag"
+msgstr "下一个标签"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.NEXT_ART_BUTTON.TOOLTIP
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.NEXT_ART_BUTTON.TOOLTIP"
+msgid "Changes Tag to another of the same tier. {Hotkey}"
+msgstr "将标签改为同一级别的另一个。{Hotkey}"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.GAS_ELEMENT_TAGS.NOGAS_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.GAS_ELEMENT_TAGS.NOGAS_TAG"
+msgid "Select Gas"
+msgstr "选择气体"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.GAS_ELEMENT_TAGS.OXYGEN_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.GAS_ELEMENT_TAGS.OXYGEN_TAG"
+msgid "Oxygen Gas"
+msgstr "氧气"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.GAS_ELEMENT_TAGS.POXYGEN_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.GAS_ELEMENT_TAGS.POXYGEN_TAG"
+msgid "Polluted Oxygen"
+msgstr "污染氧气"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.GAS_ELEMENT_TAGS.CO2_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.GAS_ELEMENT_TAGS.CO2_TAG"
+msgid "Carbon Dioxide Gas"
+msgstr "二氧化碳气体"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.GAS_ELEMENT_TAGS.HYDROGEN_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.GAS_ELEMENT_TAGS.HYDROGEN_TAG"
+msgid "Hydrogen Gas"
+msgstr "氢气"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.GAS_ELEMENT_TAGS.METHANE_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.GAS_ELEMENT_TAGS.METHANE_TAG"
+msgid "Natural Gas"
+msgstr "天然气"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.GAS_ELEMENT_TAGS.PROPANE_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.GAS_ELEMENT_TAGS.PROPANE_TAG"
+msgid "Propane Gas"
+msgstr "丙烷气体"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.GAS_ELEMENT_TAGS.CHLORINE_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.GAS_ELEMENT_TAGS.CHLORINE_TAG"
+msgid "Chlorine Gas"
+msgstr "氯气"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.GAS_ELEMENT_TAGS.HELIUM_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.GAS_ELEMENT_TAGS.HELIUM_TAG"
+msgid "Helium Gas"
+msgstr "氦气"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.GAS_ELEMENT_TAGS.SOUR_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.GAS_ELEMENT_TAGS.SOUR_TAG"
+msgid "Sour Gas"
+msgstr "高硫天然气"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.GAS_ELEMENT_TAGS.STEAM_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.GAS_ELEMENT_TAGS.STEAM_TAG"
+msgid "Steam"
+msgstr "蒸汽"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.GAS_ELEMENT_TAGS.FALLOUT_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.GAS_ELEMENT_TAGS.FALLOUT_TAG"
+msgid "Nuclear Fallout"
+msgstr "核尘埃"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.LIQUID_ELEMENT_TAGS.NOLIQUID_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.LIQUID_ELEMENT_TAGS.NOLIQUID_TAG"
+msgid "Select Liquid"
+msgstr "选择液体"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.LIQUID_ELEMENT_TAGS.WATER_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.LIQUID_ELEMENT_TAGS.WATER_TAG"
+msgid "Water"
+msgstr "水"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.LIQUID_ELEMENT_TAGS.POLLUTEDWATER_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.LIQUID_ELEMENT_TAGS.POLLUTEDWATER_TAG"
+msgid "Polluted Water"
+msgstr "污染水"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.LIQUID_ELEMENT_TAGS.SALTWATER_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.LIQUID_ELEMENT_TAGS.SALTWATER_TAG"
+msgid "Salt Water"
+msgstr "盐水"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.LIQUID_ELEMENT_TAGS.BRINE_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.LIQUID_ELEMENT_TAGS.BRINE_TAG"
+msgid "Brine"
+msgstr "浓盐水"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.LIQUID_ELEMENT_TAGS.ETHANOL_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.LIQUID_ELEMENT_TAGS.ETHANOL_TAG"
+msgid "Ethanol"
+msgstr "乙醇"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.LIQUID_ELEMENT_TAGS.CRUDEOIL_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.LIQUID_ELEMENT_TAGS.CRUDEOIL_TAG"
+msgid "Crude Oil"
+msgstr "原油"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.LIQUID_ELEMENT_TAGS.PETROLEUM_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.LIQUID_ELEMENT_TAGS.PETROLEUM_TAG"
+msgid "Petroleum"
+msgstr "石油"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.LIQUID_ELEMENT_TAGS.COOL_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.LIQUID_ELEMENT_TAGS.COOL_TAG"
+msgid "Super Coolant"
+msgstr "超级冷却剂"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.LIQUID_ELEMENT_TAGS.NAPHTHA_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.LIQUID_ELEMENT_TAGS.NAPHTHA_TAG"
+msgid "Naphtha"
+msgstr "石脑油"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.LIQUID_ELEMENT_TAGS.VISCO_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.LIQUID_ELEMENT_TAGS.VISCO_TAG"
+msgid "Visco-Gel"
+msgstr "粘性凝胶"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.LIQUID_ELEMENT_TAGS.LIQUID_02_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.LIQUID_ELEMENT_TAGS.LIQUID_02_TAG"
+msgid "Liquid Oxygen"
+msgstr "液态氧"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.LIQUID_ELEMENT_TAGS.LIQUID_H_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.LIQUID_ELEMENT_TAGS.LIQUID_H_TAG"
+msgid "Liquid Hydrogen"
+msgstr "液态氢"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.LIQUID_ELEMENT_TAGS.LIQUID_CO2_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.LIQUID_ELEMENT_TAGS.LIQUID_CO2_TAG"
+msgid "Liquid Carbon Dioxide"
+msgstr "液态二氧化碳"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.LIQUID_ELEMENT_TAGS.NWASTE_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.LIQUID_ELEMENT_TAGS.NWASTE_TAG"
+msgid "Nuclear Waste"
+msgstr "核废料"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.NOSOLID_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.NOSOLID_TAG"
+msgid "Select Solid"
+msgstr "选择固体"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.AGRICULTURE_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.AGRICULTURE_TAG"
+msgid "Agriculture"
+msgstr "农业用品"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.CONSUMORE_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.CONSUMORE_TAG"
+msgid "Consumable Ore"
+msgstr "消耗性矿石"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.CRITTEREGG_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.CRITTEREGG_TAG"
+msgid "Critter Egg"
+msgstr "小动物蛋"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.CULSOIL_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.CULSOIL_TAG"
+msgid "Cultivable Soil"
+msgstr "可耕作的泥土"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.FILTRATION_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.FILTRATION_TAG"
+msgid "Filtration Medium"
+msgstr "过滤介质"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.INDING_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.INDING_TAG"
+msgid "Industrial Ingredient"
+msgstr "工业原料"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.LIQUEFIABLE_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.LIQUEFIABLE_TAG"
+msgid "Liquefiable"
+msgstr "可液化的物品"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.MANUFACT_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.MANUFACT_TAG"
+msgid "Manufactured Material"
+msgstr "人造材料"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.MEDSUP_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.MEDSUP_TAG"
+msgid "Medical Supplies"
+msgstr "医疗用品"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.METALORE_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.METALORE_TAG"
+msgid "Metal Ore"
+msgstr "金属矿石"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.MISC_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.MISC_TAG"
+msgid "Miscellaneous"
+msgstr "其他"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.ORGANIC_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.ORGANIC_TAG"
+msgid "Organic"
+msgstr "有机物"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.RARE_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.RARE_TAG"
+msgid "Rare Resource"
+msgstr "稀有资源"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.RAWMINERAL_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.RAWMINERAL_TAG"
+msgid "Raw Mineral"
+msgstr "矿物原料"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.REFMETAL_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.REFMETAL_TAG"
+msgid "Refined Metal"
+msgstr "精炼金属"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.REFMINERAL_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.SOLID_ELEMENT_TAGS.REFMINERAL_TAG"
+msgid "Refined Mineral"
+msgstr "精炼矿物"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.ALERT_TAGS.NOSALERT_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.ALERT_TAGS.NOSALERT_TAG"
+msgid "Select Alert Tag"
+msgstr "选择警示标签"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.ALERT_TAGS.WARNING_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.ALERT_TAGS.WARNING_TAG"
+msgid "Warning"
+msgstr "警示"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.ALERT_TAGS.HOTSPOT_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.ALERT_TAGS.HOTSPOT_TAG"
+msgid "Hot Spot"
+msgstr "高温"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.ALERT_TAGS.COLDSPOT_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.ALERT_TAGS.COLDSPOT_TAG"
+msgid "Cold Spot"
+msgstr "低温"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.ALERT_TAGS.COMET_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.ALERT_TAGS.COMET_TAG"
+msgid "Comet Alert"
+msgstr "陨石警示"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.ALERT_TAGS.BIOHAZARD_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.ALERT_TAGS.BIOHAZARD_TAG"
+msgid "Biohazard Alert"
+msgstr "生物危害警示"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.ALERT_TAGS.RADIATION_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.ALERT_TAGS.RADIATION_TAG"
+msgid "Radiation Alert"
+msgstr "辐射警示"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.ALERT_TAGS.LIGHT_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.ALERT_TAGS.LIGHT_TAG"
+msgid "Brightness Alert"
+msgstr "光照警示"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.ALERT_TAGS.ELETRIC_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.ALERT_TAGS.ELETRIC_TAG"
+msgid "Electricity Alert"
+msgstr "触电警示"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.ALERT_TAGS.DANGER_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.ALERT_TAGS.DANGER_TAG"
+msgid "Danger Alert"
+msgstr "危险警示"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.UTILITY_TAGS.NOSUT_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.UTILITY_TAGS.NOSUT_TAG"
+msgid "Select Utility Tag"
+msgstr "选择实用性标签"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.UTILITY_TAGS.ARROW_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.UTILITY_TAGS.ARROW_TAG"
+msgid "Direction"
+msgstr "方向"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.UTILITY_TAGS.DIAGARROW_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.UTILITY_TAGS.DIAGARROW_TAG"
+msgid "Diagonal Direction"
+msgstr "对角线方向"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.UTILITY_TAGS.BOTHARROW_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.UTILITY_TAGS.BOTHARROW_TAG"
+msgid "Both Directions"
+msgstr "双向"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.UTILITY_TAGS.GASPUMP_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.UTILITY_TAGS.GASPUMP_TAG"
+msgid "Gas Pump"
+msgstr "气泵"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.UTILITY_TAGS.LIQUIDPUMP_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.UTILITY_TAGS.LIQUIDPUMP_TAG"
+msgid "Liquid Pump"
+msgstr "液泵"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.UTILITY_TAGS.SOLIDCON_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.UTILITY_TAGS.SOLIDCON_TAG"
+msgid "Solid Conveyor"
+msgstr "固体运输"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.SYSTEM_TAGS.NOSYS_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.SYSTEM_TAGS.NOSYS_TAG"
+msgid "Select System Tag"
+msgstr "选择系统标签"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.SYSTEM_TAGS.CLOSEDCY_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.SYSTEM_TAGS.CLOSEDCY_TAG"
+msgid "Closed Cycle"
+msgstr "封闭式循环"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.SYSTEM_TAGS.ORGANICCY_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.SYSTEM_TAGS.ORGANICCY_TAG"
+msgid "Organic Recycle"
+msgstr "有机循环"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.SYSTEM_TAGS.RECYCLE_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.SYSTEM_TAGS.RECYCLE_TAG"
+msgid "Recycle"
+msgstr "有机回收"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.SYSTEM_TAGS.POWER_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.SYSTEM_TAGS.POWER_TAG"
+msgid "Power Toggle"
+msgstr "电源开关"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.SYSTEM_TAGS.GASSEN_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.SYSTEM_TAGS.GASSEN_TAG"
+msgid "Gas Element Sensor"
+msgstr "气体元素传感器"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.SYSTEM_TAGS.LIQUIDSEN_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.SYSTEM_TAGS.LIQUIDSEN_TAG"
+msgid "Liquid Element Sensor"
+msgstr "液体元素传感器"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.SYSTEM_TAGS.MOTIONSEN_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.SYSTEM_TAGS.MOTIONSEN_TAG"
+msgid "Motion Sensor"
+msgstr "运动传感器"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.SYSTEM_TAGS.POWERSEN_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.SYSTEM_TAGS.POWERSEN_TAG"
+msgid "Power Sensor"
+msgstr "功率传感器"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.SYSTEM_TAGS.PRESSURESEN_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.SYSTEM_TAGS.PRESSURESEN_TAG"
+msgid "Pressure Sensor"
+msgstr "压力传感器"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.SYSTEM_TAGS.TEMPSEN_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.SYSTEM_TAGS.TEMPSEN_TAG"
+msgid "Temperature Sensor"
+msgstr "温度传感器"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.SYSTEM_TAGS.TIMESEN_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.SYSTEM_TAGS.TIMESEN_TAG"
+msgid "Time Sensor"
+msgstr "时间传感器"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.INFO_TAGS.NOINFO_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.INFO_TAGS.NOINFO_TAG"
+msgid "Select Info Tag"
+msgstr "选择信息标签"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.INFO_TAGS.ATMO_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.INFO_TAGS.ATMO_TAG"
+msgid "Atmo Suit"
+msgstr "气压服"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.INFO_TAGS.JET_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.INFO_TAGS.JET_TAG"
+msgid "Jet Suit"
+msgstr "喷气服"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.INFO_TAGS.LEADSUIT_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.INFO_TAGS.LEADSUIT_TAG"
+msgid "Lead Suit"
+msgstr "铅服"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.INFO_TAGS.DORMITORY_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.INFO_TAGS.DORMITORY_TAG"
+msgid "Dormitory"
+msgstr "宿舍"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.INFO_TAGS.INFIRMARY_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.INFO_TAGS.INFIRMARY_TAG"
+msgid "Infirmary"
+msgstr "医务室"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.INFO_TAGS.WORKSHOP_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.INFO_TAGS.WORKSHOP_TAG"
+msgid "Workshop"
+msgstr "车间"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.INFO_TAGS.RESEARCH_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.INFO_TAGS.RESEARCH_TAG"
+msgid "Research Facility"
+msgstr "研究设施"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.INFO_TAGS.OBSERVATORY_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.INFO_TAGS.OBSERVATORY_TAG"
+msgid "Observatory"
+msgstr "观察站"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.INFO_TAGS.RESTROOM_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.INFO_TAGS.RESTROOM_TAG"
+msgid "Restroom"
+msgstr "休息室"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.INFO_TAGS.FOOD_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.INFO_TAGS.FOOD_TAG"
+msgid "Refectory"
+msgstr "食堂"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.INFO_TAGS.FARM_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.INFO_TAGS.FARM_TAG"
+msgid "Farm"
+msgstr "农场"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.INFO_TAGS.CRITTERRANCH_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.INFO_TAGS.CRITTERRANCH_TAG"
+msgid "Critter Ranch"
+msgstr "牧场"
+
+#. Useful_Tags_Lite.INTERNALSTRINGS.INFO_TAGS.ROCKET_TAG
+msgctxt "Useful_Tags_Lite.INTERNALSTRINGS.INFO_TAGS.ROCKET_TAG"
+msgid "Rocket Platform"
+msgstr "火箭平台"
